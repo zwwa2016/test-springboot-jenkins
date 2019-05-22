@@ -1,7 +1,0 @@
-com/zhouwei/ucenter/vo/request/RegisterRequest.class
-com/zhouwei/ucenter/controller/UserController.class
-com/zhouwei/ucenter/vo/response/Response.class
-com/zhouwei/ucenter/controller/TestController.class
-com/zhouwei/ucenter/App.class
-com/zhouwei/ucenter/vo/response/RegisterResponse.class
-com/zhouwei/ucenter/enums/ResponseCodeEnum.class
